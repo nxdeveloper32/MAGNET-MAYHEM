@@ -1,0 +1,452 @@
+I’d approach this as a completely new game, not another endless runner with a different character. The goal should be: a player understands the mechanic in 5 seconds, enjoys the first round in 30 seconds, and wants to replay because they nearly pulled off something amazing.
+
+For your browser game, I’d focus on one unusual mechanic, one visually striking world, and controls simple enough for anyone to learn. The depth should come from how the mechanic behaves—not from complicated buttons, long tutorials, or dozens of menus.
+
+Here’s the concept I’d choose and the complete game design around it.
+
+# Game concept: MAGNET MAYHEM
+
+A complete game design blueprint for a unique, browser-based arcade game
+
+[Cybershift on Steam](https://images.openai.com/static-rsc-4/mHC4BGyL3A1Q3zSvrfyIYGc9qBiMWe3erTEfnxCRC5P0O2bJH3RONQ8xh3_xMas5AHVlFAKMowAClQvDY29x7T_rEWsMYpCkyzhJFmgg-TaGhO4gvgBFjpMqBesh4quqOZoJ6FZo2SrsFEk9H1f2D5LEzyI_vkrcEk6OBAtiDXQ?purpose=inline)
+
+[Winning Epic’s MegaJam was the spark that ignited the creation of UE5-powered platformer Boti: Byteland Overclocked - Unreal Engine](https://images.openai.com/static-rsc-4/jBWngQf9la2ZTeR0v6MXLo1aIJ8y5anVz216zm-m2KTeAHSCfWuiAnCkjDjTH1X2IbRNahlk_d790nC11ZYw9wf7LAmbkVvM96ZO0l7rmuUkkylaHEdyvrzc6gIvl-_15_1_7gT-B86zbaaPIr3uM2Y9tyNdOSDXyfkfpLAdk88?purpose=inline)
+
+[TECHNOSPHERE RELOAD - Images & Screenshots | GameGrin](https://images.openai.com/static-rsc-4/OPZYYYAug9Uh0MNBCKk9iNSHN1_pyt0eryDZ3U1y_051nxNyb1mIYR66DkoIADWwqcBkDBwTo6oLy6HJMA1dno-yRcRd1PP3pwNz23LqZjdkzSJA60u_8kj8JF8IHLt1JUb6WLyyI2ntsGDPvmg_IT9_DpTUa3YKVwPZGmMrTaw?purpose=inline)
+
+15
+
+My recommendation is a physics-based arcade game where the player doesn't control a character's movement directly. They control magnetic forces—and use them to create spectacular chain reactions.
+
+Working title: MAGNET MAYHEM: Pull. Push. Survive.
+
+The visuals should feel like a playable toy commercial: bright colors, satisfying physics, exaggerated movement, expressive objects, and spectacular moments. No running down endless roads, no lane switching, no traditional jumping over obstacles.
+
+## 1. The core idea
+
+Imagine a little glowing magnetic orb inside a futuristic toy factory. Metal blocks, rings, spinning blades, floating platforms, and energy crystals fill the arena.
+
+You have two magnetic states:
+
+[Magnet on Neon Lighting Background, Blue Pink Yellow Colors](https://images.openai.com/static-rsc-4/zP2ihxSyXNdk77U4EP8pEEBqs3L4qkJiSsd5JbtbuY1hjCocrTA8QRQpIgerXuVUfbhvC1yVOJh1rWzXzt2MFh-hnQEKc-Qw0CbElJhvuHA-vIxtPxNy6oh0eNJPlPch87vEA9HjZt8EcZN4JpkbMJ2f-P03mJc8hpzvmqyIzR0YRtn1TXU5kg_Ux22kgTbS?purpose=inline)
+
+## PULL
+
+Draw metal objects toward your orb. Gather objects, build a protective shield, or create a cluster.
+
+[Baixe Crazy Bricks Destroyer no PC com MEmu](https://images.openai.com/static-rsc-4/g9kjRtddff8t2YntEIYObJwFZqCYUs1aBuZIL7J5omSBtHR3_hUDlo2lK9S4MQIGNJM2uwuLue_iyMnPhfnwln1sM82--TCF3YU7rK0gQODJ9G8Y5XGbqJbUJ-DX3l8LcL3BsWhoKqXGv8BBeprSjhPVWJFl0tE17JnG4ueZLM8?purpose=inline)
+
+## PUSH
+
+Blast metal objects away. Break barriers, knock hazards aside, and launch yourself through the arena.
+
+The fun comes from changing the force at exactly the right moment.
+
+Pull a cluster of metal balls together. Switch to Push. Watch them explode outward, hit targets, break glass, activate machines, and open a path to the exit.
+
+One mechanic creates many different situations. That is the foundation of the game.
+
+## 2. The 5-second gameplay experience
+
+[Test Boti: Byteland Overclocked - Quand on vous dit de mettre à jour vos drivers...](https://images.openai.com/static-rsc-4/IUYQ3kolzy3vTUgejrKxQWdmUiHFF4ex3l23uN7ecRZc2phOS2gt-uSOD-kK17lyACLLJR5UnyExywAc8QUqn1fP1AhezdiFj7uOhckA67ldJYs8CLq7Bo3rePzqAGjuwtH5kckHp43Wa6ZdxhU8H4r7c06EZEOOdPpABy2AncQ?purpose=inline)
+
+Step 1 — Pull
+
+Hold the left side of the screen. Metal balls rush toward you.
+
+[Kabounce (2018) | PS4 Game | Push Square](https://images.openai.com/static-rsc-4/JEIb7qvFRel7P_QvfviO-I0jXfBlULBANohHwt48wjpDK56c8faHVbNUPxFOA5UX5l9VYeL83Y-4zRym0YHpOhb5qoG-2AF_pSgr7Q6jjMEBxSaoS9c-y9ZPXsIJTnhw6zm6MSok11Ia65iXI2sm4Ez7lt8q1NomrqOAbqPvPmo?purpose=inline)
+
+Step 2 — Switch
+
+Tap the right side. Your magnet changes from blue Pull to orange Push.
+
+[Play Shooter Games Online on PC & Mobile (FREE) | now.gg](https://images.openai.com/static-rsc-4/rn-vQYDCvsWwZmAlNsnbO3WdBV6f-ka6k_oJ7SRKGItZbkWHZS21pClQ9JH9D3QrQL2rXldibNmilHEU8kVXlYSUvz_cwuur9fObu_2vagG7tVClAMa8UQ9wLRhaB9ATvAqB7LgSegiPbS-fVTL1k1mkj6P3o8kuftJrSsbetgA?purpose=inline)
+
+Step 3 — Create chaos
+
+The objects blast outward, smash targets, and trigger a chain reaction.
+
+The first level should teach these actions without a text-heavy tutorial. The player learns by doing.
+
+## 3. What makes it different?
+
+Most arcade games ask players to move out of danger. This game asks players to change the world around them.
+
+Its standout features should be:
+
+- Chain reactions: One pushed object hits another, which hits a target, which triggers an explosion of points.
+- Physics-based solutions: A challenge can have several valid solutions, not just one scripted sequence.
+- Risk versus reward: Pull more objects together for a bigger combo, but risk getting hit by the resulting chaos.
+- A skill ceiling: Beginners can survive by switching states. Skilled players time pulses, predict trajectories, and chain several hits.
+- Spectacular near-misses: Objects fly past the camera, the arena reacts, and a slow-motion effect highlights exceptional plays.
+
+The game should produce moments that players want to record and share.
+
+## 4. The complete gameplay loop
+
+ENTER ARENA
+
+A short challenge with a clear objective
+
+PULL / PUSH
+
+Move metal objects using magnetic force
+
+CHAIN REACTIONS
+
+Break targets, trigger machines, earn combos
+
+COMPLETE OR FAIL
+
+Score, rewards, and immediate feedback
+
+UPGRADE & PLAY AGAIN
+
+Unlock new arenas and chase a better score
+
+Each round should last roughly 30–90 seconds. The player should get back into the action almost immediately after losing.
+
+## 5. Game modes
+
+Do not launch with a dozen modes. Build one excellent core mode first, then add variations that reuse the same mechanic.
+
+[Mineral | Download and Buy Today - Epic Games Store](https://images.openai.com/static-rsc-4/3vANx2VLBr1Bx5vXjVUk8jf6ZDviHtRwAk-D8TKv2w-Q9W5NoxCVHRQywnPJpiDQ6UEqGH2YzatMRsHZTC_-46BnS4EnAg5zYz80BHHm_4hCz3iBPPcDzHmP-0_EjlhfhyBkVLbMUlCaRgA9gFlXDhMddfIpQM0AvNJjkZsyZP0?purpose=inline)
+
+Mode A — Arena Escape
+
+Launch mode
+
+Survive a compact arena, reach the exit, and use Pull and Push to clear your path. The arena introduces new objects and hazards every few rounds.
+
+[Smash Fest: Physics-Based Shooting Puzzle | Playgama](https://images.openai.com/static-rsc-4/Jnur3IqMY4aV1boElDfMBPI3JPMxLFlKjcgVRb2yMqUknduO-s0HQwQdrM9iO8N71Wy2MnJU9wNx4Syn9tl8CxYeO61nsGa-F6BPNg-H6WWVYSxfcKqvJu_UpWWzvPZxo9hap5xFImXQzo2UYFG0sOAmrXjXZi_tbLQiEU1lk8w?purpose=inline)
+
+Mode B — Chain Reaction
+
+Destroy a set number of targets with as few magnetic pulses as possible. Players experiment with object placement and timing to maximize the chain.
+
+[Orbshift: Mechanized Labyrinth - Endless Tapping by Jabali AI](https://images.openai.com/static-rsc-4/3JcSZdhrIOBo0uZh9zSfyC0X5nNHWNuVD3Y0X8oQqSLR3PmN6jFY-A1FwIqfR9Ioy2YXSDYqUfFjMo0TCcALPZmJEm-pPKR7HTcyr6VcCYORVmwp3gy7I7agJ_YxxVJmUibXhsDG6fT0ABYmQHRQLqK7vwl1hYWPCGLnqMow0Ys?purpose=inline)
+
+Mode C — Chaos Survival
+
+Survive for as long as possible while moving hazards, falling metal objects, and arena events increase the pressure.
+
+[Stacks On Stacks (On Stacks) on Steam](https://images.openai.com/static-rsc-4/VSpb0im0ekJEybnRsXT-VgEhZ-WnkahI5MtqXAu_akWUqNfzzwjrjdg-WNRGZgrXlILtyd2eNNlrAa_IvTAFTocFqz_84j4kEb5tgjh9pzMpps50iDtIZh0DxBZvMRkvhZnK3tvGfOa2vczNAJ_86THn-hjRiCso0O3sSNaslOg?purpose=inline)
+
+Mode D — Boss Machines
+
+Defeat oversized machines by using their own metal parts against them. For example, Pull a projectile into a launcher, then Push it back at the machine's exposed core.
+
+Important: All modes use the same two magnetic states. New content should come from level design, physics interactions, and hazards—not additional controls.
+
+## 6. Controls: mobile and desktop
+
+Keep the control scheme consistent across the entire game.
+
+### Mobile
+
+HOLD LEFT
+
+Magnetic Pull
+
+TAP RIGHT
+
+Switch / Push pulse
+
+### Desktop
+
+- Hold the left mouse button: Pull.
+- Press Space or click the right side: Switch to Push.
+- Press Esc: Pause.
+
+  Alternative: use a single tap to switch between Pull and Push, with a separate optional pulse button. Test both schemes and retain the one that feels most natural.
+
+One critical design decision: the magnetic force should be visible before it acts. Show a colored field, object outlines, and a subtle trajectory preview. Players should feel that they caused a result—not that random physics decided the outcome.
+
+## 7. The world and visual identity
+
+The game should look premium, colorful, and instantly recognizable in a small video thumbnail.
+
+[Скриншоты Boti: Byteland Overclocked - галерея, снимки экрана, скриншоты](https://images.openai.com/static-rsc-4/70E1-mY56oEpy5BfoJ7AeCFHH0ifJxYji_21P4MULxUxKKhRJEDBqHBeai2lEI5f7PQtn0UqGU5Xc0bq__w588iWf3m0CcEgcwjw8BarFvo_dOyEYjYM7jdHBclnirnqhZ-4f-IVvkD2p8DPbxIKP2zWUQCyRh6VbPlIO_9myRs?purpose=inline)
+
+[マップ紹介 - 脱獄ごっこPRO情報サイト | Gamerch](https://images.openai.com/static-rsc-4/_dysMr028mh649PlP5bdWG3rTdSvYaPJgLPktrLGnhWEkuNBTDq8KQdtfCtAWahtC4ovmmUltOjomtpq0Ye5RUQdlGHDopS1bSjKP3kwMbeSLWOuAk5NaH1iTMDApq-ULHkzpP3PsmPlfC4mlsKzLkD0pKzxavEvXRmA9aMpRFc?purpose=inline)
+
+[宏观大宗 - 培风客报告](https://images.openai.com/static-rsc-4/yIJPWa3jqHZTPzoO9CfHbYGw4cE_3VDhIYoRAClQ21MAIq5jXucXBEJ-18DKr3yd_f8q0UtMhcHJMB7wAYL08KGLqKtttAN3Y2UYAuSA9xUfTAR1LutqLb4PZogAox93heFW3suPxvsDA0vWIM_yCkhJ9K6CjsojuZRpg3HtQsM?purpose=inline)
+
+12
+
+Art direction
+
+- Environment: a futuristic toy factory mixed with a playful science laboratory.
+- Main character: a small glossy orb with expressive animated eyes and a glowing magnetic core.
+- Pull state: cyan/blue field, inward-moving particles, metallic shimmer.
+- Push state: orange/magenta field, outward shockwave, strong screen-space feedback.
+- Materials: glossy plastic, brushed metal, translucent glass, emissive surfaces.
+- Camera: third-person, slightly elevated, with controlled zoom and impact shake.
+- Effects: sparks, squash-and-stretch, trails, debris, shockwaves, and brief slow motion on major combos.
+
+Avoid a generic dark sci-fi aesthetic. The arena should be bright enough that players immediately understand what is interactive.
+
+## 8. The object system
+
+Every object should have a purpose. The initial release needs only a handful of well-designed objects.
+
+| Object          | Gameplay role                                            |
+| --------------- | -------------------------------------------------------- |
+| Metal balls     | Gather, scatter, and trigger chain reactions             |
+| Metal cubes     | Heavy objects that move slowly but hit hard              |
+| Energy crystals | Score collectibles; cannot be magnetically moved         |
+| Glass barriers  | Break when hit with enough force                         |
+| Magnetic gates  | Open or close depending on the current state             |
+| Bumpers         | Redirect objects to create unexpected combinations       |
+| Spinning blades | Hazards that can be disabled by hitting their weak point |
+| Launchers       | Fire objects when activated by a magnetic pulse          |
+| Exit portal     | Clear goal with a satisfying completion animation        |
+
+Later, introduce unusual objects: magnetic paint that reverses forces, objects that split into smaller pieces, and machines that temporarily reverse the player's controls.
+
+These variations are how the game can remain fresh without becoming complicated.
+
+## 9. Progression, upgrades, and rewards
+
+The game should reward skill first and grinding second.
+
+[Jelly Brawl](https://images.openai.com/static-rsc-4/L1vHkO7BXVNSjBa5EsriJb93zATg2XZp2Y5XmT4y8EY57Wf3ecuX9jATXT1nYooOXmZRKdeYMbBHAVjZb_Eguo8ldaIJScxicIiCtjaeix5tgPFYtMFKUY1Qgpy9gnGAPplqmXWonZM2gM04Nr9sHqSOsXG3v6wZZm-O7I3hRsA?purpose=inline)
+
+Starter orb
+
+Balanced Pull and Push. No special abilities needed.
+
+[Heroes of Newerth Reborn](https://images.openai.com/static-rsc-4/xmeIE41yC6D8N-Kmwvycx5fr8A_2SzEUhPE3Dc_RwHTe8tl6n2aX9JGEOPllxJQSd7i1Qs5YcxV9xq1EGKrTQWQ8cryHj_Emv-9q97iU1Wla5mFcZ_RXHngV4uJX3JDOKIVFQB5hyML2peGp5mWiTl-KbEYLWuGvuG7YYIoSeHk?purpose=inline)
+
+Orb skins
+
+Earn colors, trails, impact effects, and visual styles. Cosmetics should not give unfair advantages.
+
+[Arc Reactor Png Images (100++)](https://images.openai.com/static-rsc-4/0bwVaSyQeEQYX8qRQDU8bhe3mdrWiqSLC70gEDj_M-7_zR-StP4IhhWa8Q5QX3NAoPhB2O_2w3cguwHcIXtsbmv7fdpRnZxT0w7BaRfexo7LOh-b5hvEqHz5-FXH3jHHfnfLxpMdIWk8p0grvq4Wo6gMAyjk_2_d2QezI3msDds?purpose=inline)
+
+Permanent upgrades
+
+Slightly improve force range, control precision, or energy recovery, with sensible caps.
+
+[Winning Epic’s MegaJam was the spark that ignited the creation of UE5-powered platformer Boti: Byteland Overclocked - Unreal Engine](https://images.openai.com/static-rsc-4/jBWngQf9la2ZTeR0v6MXLo1aIJ8y5anVz216zm-m2KTeAHSCfWuiAnCkjDjTH1X2IbRNahlk_d790nC11ZYw9wf7LAmbkVvM96ZO0l7rmuUkkylaHEdyvrzc6gIvl-_15_1_7gT-B86zbaaPIr3uM2Y9tyNdOSDXyfkfpLAdk88?purpose=inline)
+
+New arenas
+
+Unlock different hazards, physics properties, visual themes, and challenge layouts.
+
+### Scoring system
+
+Score should come from more than survival time.
+
+- Target hit: base points.
+- Multi-object collision: combo multiplier.
+- Multiple targets hit by one pulse: efficiency bonus.
+- Near-miss: small skill bonus.
+- Arena cleared without damage: mastery bonus.
+- Repeated hits on the same target: diminishing bonus to prevent exploits.
+
+A good score system makes players think, “I could have done that better,” rather than simply “I need to grind more.”
+
+## 10. Menus and the full user experience
+
+[Tiny Robots: Portal Escape Review & User Ratings](https://images.openai.com/static-rsc-4/OJz3ecrYb89d1YCPYueOakoSiavc4cUtzZaDZFDRtPepJuTLuS59ZIN3S3VtHEg3NNBbuqNNQRWJuhV2Xx3MNe3XX3QbGHwsmbR4s6-YcSm_eFSwtXAg3OypPKabIVKXg_XQSd1KVV57_1CUrGBLEJgsLe4cV8vp-W6H3y3jZcs?purpose=inline)
+
+Main menu
+
+A rotating magnetic orb, subtle floating metal objects, animated title, and one enormous PLAY button. Smaller buttons: Modes, Garage, Settings.
+
+[MagNets on Steam](https://images.openai.com/static-rsc-4/bWnoQjnVpjk0cv1yAkRWXP5dDvVITyc-EjU59wNSvcqZGFliF_aEKyYOi8WZMoGGpqmdOmDIhIEVGgLbLonOsoyRIx8ReQ2qDm2h2TapLstJ6aTdGkSLpn1jDshV1c9mnE474sbrdtDR4n1v-Zli6W-o3x35is8CS96HZPi9Rqg?purpose=inline)
+
+In-game HUD
+
+Score at the top, objective indicator, combo meter, and a clear Pull/Push state indicator. Hide unnecessary information until needed.
+
+[Como Criar um Menu Principal no Godot 4: Passo a Passo Completo - CursoGame.dev - Blog de Desenvolvimento de Jogos](https://images.openai.com/static-rsc-4/zVFtS2TjVCS7KhaYj1oqzLpZWbKjaOJ7kPASJpAz2NzIUAbwIeysmCdRFNUmfzNT-g1ePed6XEwlMQU2i8TG7PtNkPvMQ9SeUzfE2APqRuNnVS5ZaZt3UbxbXK-r-8lIy1X4j5Rto22x_ypj37JdvisJ_1LEqdEJW5XzqvRC1wE?purpose=inline)
+
+Pause and settings
+
+Resume, restart, sound, sensitivity, graphics quality, control guide, and return to menu. Pause must stop gameplay physics completely.
+
+[Pirots 4 by ELK Studios: Unpack the UK version. Expect cascading symbols, four collector birds, an expanding 6x6-8x8 grid, plus a 10,000x max payout. 94.0% RTP. UKGC licensed. Play responsibly.](https://images.openai.com/static-rsc-4/zUwat5XqQj6stgA9zZNXsaarw4m_Ue9mqWtsbWQsh992KJn50wpa7-yRNew4xUN_DRoSyYhF0JNh48yFE26PJta3OS7TI8BWNwb4ptym8C0RQl-gjpzIgkFsCEK0gXaeYhFtF--Bhl3tcvFWicf3aicXTkjgBn_Q7P76UGMOszI?purpose=inline)
+
+Results screen
+
+Show score, best combo, accuracy or efficiency, rewards, personal best, and two clear choices: PLAY AGAIN and CONTINUE.
+
+The player should be able to go from opening the website to playing in seconds. No account creation or lengthy introductory cinematic.
+
+## 11. Sound and game feel
+
+Audio is part of the mechanic, not decoration.
+
+- Pull: a rising, resonant magnetic hum.
+- Push: a short, punchy bass impact and an expanding energy sound.
+- Metal collision: layered clanks with pitch variation.
+- Combo: rising musical notes as the multiplier grows.
+- Near miss: a brief audio dip followed by a sharp accent.
+- Victory: a bright, short musical sting.
+- Game over: a quick fall in pitch, followed by an immediate retry option.
+
+Use procedural variation or several sound samples so repeated collisions don't sound identical. Include volume controls and a reduced-motion option.
+
+## 12. Technical design for a real browser game
+
+Recommended implementation:
+
+- Three.js + TypeScript + Vite for a 3D browser game.
+- WebGL rendering, with a fallback or clear message if the device cannot support the game.
+- A physics engine such as Rapier for rigid bodies and collision handling.
+- Responsive mouse and touch input.
+- Local storage for settings, unlocked cosmetics, and personal bests.
+- Object pooling for debris, particles, and repeated objects.
+- Bounded object counts and cleanup to prevent memory growth during long sessions.
+
+### Physics must be designed, not left to chance
+
+Raw physics simulations can be unpredictable. Apply limits to force, velocity, angular velocity, and collision impulses. Use predictable mass classes and tune the magnetic pull radius. Reset out-of-bounds objects safely.
+
+The magnetic pulse should be deterministic enough that similar actions yield similar results. Otherwise, the game will feel unfair rather than skill-based.
+
+### Performance target
+
+Aim for smooth 60 FPS on a reasonably capable desktop, with scalable quality settings for mobile devices. Reduce particle counts, shadow quality, and physics object counts on weaker hardware.
+
+## 13. The first playable release
+
+Do not try to build every mode and every upgrade at once.
+
+## 01
+
+CORE
+
+Magnetic prototype
+
+One arena, one orb, Pull and Push, metal balls, collisions, one target. This must already be fun with no progression system.
+
+## 02
+
+FEEL
+
+Game feel and feedback
+
+Improve magnetic visuals, impact effects, sound, camera behavior, and collision tuning. Test whether a new player understands the mechanic without explanation.
+
+## 03
+
+GAME
+
+Complete core loop
+
+Add a few designed arenas, objectives, failure conditions, scoring, results, restart, and local saving.
+
+## 04
+
+POLISH
+
+Release-ready browser game
+
+Add responsive controls, menus, accessibility, performance checks, and a small set of unlockables.
+
+## 14. How to test whether the idea is actually good
+
+Before adding content, ask five people who have never seen the game to try it.
+
+Watch for these signals:
+
+- They understand Pull and Push without a long explanation.
+- They can create a satisfying collision within the first 10 seconds.
+- They understand why they failed.
+- They try again without being prompted.
+- They discover at least one clever chain reaction on their own.
+
+If players only hold a button and wait, the mechanic needs more agency. If the results feel random, physics needs more tuning. If they cannot predict what will happen, the visual feedback needs improvement.
+
+The key metric is not how many features the game has. It's whether one simple action produces a satisfying result that makes the player want to try a more clever action next time.
+
+## 15. Master build brief
+
+Use the following as the starting specification for your AI coding workflow.
+
+# MAGNET MAYHEM — Master Game Development Brief
+
+## Objective
+
+Build a complete, playable, polished 3D browser arcade game called MAGNET MAYHEM. The game must have a distinctive magnetic-force mechanic and must not resemble a traditional endless runner.
+
+## Core gameplay
+
+The player controls a small glowing magnetic orb in compact 3D arenas. There are two primary states:
+
+- PULL: metal objects accelerate toward the orb.
+- PUSH: a magnetic impulse sends nearby metal objects away from the orb and can propel the orb if the level rules allow it.
+
+Use magnetic interactions to break barriers, hit targets, create chain reactions, activate mechanisms, and reach exits. Design gameplay around deliberate timing, predictable physics, and satisfying object interactions.
+
+## Controls
+
+Desktop: hold the left mouse button to Pull; use Space or the designated right-side input to activate/switch Push. Escape pauses the game.
+
+Mobile: use large, clearly explained touch zones. Prevent browser scrolling, accidental zooming, and text selection during gameplay. Handle touch cancellation and focus loss safely.
+
+Keep the control scheme consistent. Do not add complex combat controls.
+
+## Initial scope
+
+Deliver one complete mode with:
+
+- One tutorial arena
+- At least five carefully designed challenge arenas
+- A small set of metal objects, targets, breakable barriers, and hazards
+- Score, combos, objectives, success/failure conditions
+- Main menu, pause menu, settings, results screen, restart
+- Persistent best score and basic cosmetic unlocks
+- Sound effects, music toggle, responsive UI
+- Desktop and mobile-browser support
+
+Prioritize one excellent mode over several incomplete modes. Structure the code so future modes can be added without rewriting the core game.
+
+## Visual direction
+
+Create a colorful, premium-looking stylized 3D toy factory/science laboratory. Use glossy materials, brushed metal, expressive animation, cyan Pull effects, orange Push effects, readable object silhouettes, particles, trails, and controlled camera reactions.
+
+The orb and magnetic state must be visually unmistakable. Make the game attractive in screenshots and short video clips, but never sacrifice readability for visual effects.
+
+## Physics and fairness
+
+Use a browser-compatible physics engine if practical. Tune magnetic range, acceleration, impulse, mass classes, friction, damping, and collision response. Cap velocities and force values. Prevent objects from accumulating indefinitely or escaping the arena permanently.
+
+Use object pooling for frequent particles and debris. Provide a predictable result for similar inputs. Clearly communicate danger and target states.
+
+## Architecture
+
+Use TypeScript, Vite, and Three.js unless the existing project has a compelling reason to retain another stack. Separate input, physics, game state, level configuration, UI, audio, progression, and rendering into maintainable modules.
+
+Use explicit game states: MENU, TUTORIAL, PLAYING, PAUSED, VICTORY, GAME_OVER. Pausing must halt gameplay simulation. Restarting must fully reset all round-specific objects, timers, scoring, and physics.
+
+Keep game simulation independent of rendering frame rate. Handle window resizing, visibility changes, asset loading, missing audio, and WebGL limitations gracefully.
+
+## Persistence
+
+Use local storage for settings, best scores, unlocked cosmetics, and progression. Validate stored data and provide safe defaults if it is missing or corrupted. Do not require sign-in or a server for the first release.
+
+## Quality requirements
+
+No fake buttons, placeholder gameplay, unimplemented menu items, or endless loading screens. Every visible control must work. The game must be playable from the first launch, with a concise interactive tutorial.
+
+Test collision edge cases, repeated restarts, pause/resume, input release, mobile touch, object cleanup, and performance over extended play sessions.
+
+## Development process
+
+First inspect the existing project, if one exists. Preserve working code and identify the actual framework before making changes. Implement in milestones, run the game after each milestone, fix errors, and verify the playable result rather than merely describing it.
+
+First deliver the smallest fun prototype. Then improve game feel, complete the core mode, polish the interface, and optimize performance. Do not claim a feature works until it has been implemented and tested.
+
+## Definition of done
+
+A new player can open the browser game, understand Pull and Push, create satisfying magnetic chain reactions, complete multiple challenges, see a meaningful score, restart instantly, and return later to find their saved progress. The game looks and feels like a coherent product, not a prototype made of disconnected features.
+
+## My final recommendation
+
+Build MAGNET MAYHEM, but validate the magnetic interaction before committing to the entire game. The mechanic has potential because it is simple to explain, naturally visual, and capable of producing unpredictable-looking but skill-driven moments.
+
+The most important first milestone is a single arena where pulling a group of metal objects together and pushing them outward feels so satisfying that someone immediately wants to do it again. If that works, the rest of the game has a strong foundation.

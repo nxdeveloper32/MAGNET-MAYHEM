@@ -1,0 +1,6 @@
+{
+  "name": "Magnet Mayhem: Pull. Push. Survive.",
+  "description": "A neon 3D physics-based magnetic arcade game where you control attractive and repulsive magnetic fields to trigger spectacular chain reactions across futuristic laboratory arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
